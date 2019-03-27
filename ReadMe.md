@@ -14,7 +14,7 @@
 
 [nonStyleComponentBuild]: https://github.com/rsantoshreddy/non-styled-component/src/images/build.png "nonStyleComponentBuild image"
 
-[styleComponentBuild]: https://github.com/rsantoshreddy/styled-component/src/images/build.png "styleComponentBuild image"
+[styleComponentBuild]: https://github.com/rsantoshreddy/styled-component/blob/master/src/image/build.png "styleComponentBuild image"
 
 [nonStyleComponentPerf]: https://github.com/rsantoshreddy/non-styled-component/src/images/perf.png "styleComponentBuild image"
 
