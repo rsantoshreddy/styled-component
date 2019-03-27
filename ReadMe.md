@@ -8,21 +8,20 @@
 ## Some differences
 | Quality        | Non Styled Component           | Styled Component  |
 | :-------------: |:-------------:| :-------------:|
-| Code size      | ![alt text][nonStyleComponentBuild] | ![alt text][styleComponentBuild] |
-| Performance      | ![alt text][nonStyleComponentPerf] | ![alt text][styleComponentPerf] |
-| Non realistic code | ![alt text][nonStyleComponentCode]| ![alt text][nonStyleComponentCode] |
+| Code size      | ![nonStyleComponentBuild] | ![styleComponentBuild] |
+| Performance      | ![nonStyleComponentPerf] | ![styleComponentPerf] |
+| Non realistic code | ![nonStyleComponentCode]| ![styleComponentCode] |
 
-[nonStyleComponentBuild]: https://github.com/rsantoshreddy/non-styled-component/src/images/build.png "nonStyleComponentBuild image"
+[nonStyleComponentBuild]: https://github.com/rsantoshreddy/non-styled-component/blob/master/src/images/build.png "nonStyleComponentBuild image"
 
-[styleComponentBuild]: https://github.com/rsantoshreddy/styled-component/blob/master/src/image/build.png "styleComponentBuild image"
+[styleComponentBuild]: https://github.com/rsantoshreddy/styled-component/raw/master/src/image/build.png "styleComponentBuild image"
 
-[nonStyleComponentPerf]: https://github.com/rsantoshreddy/non-styled-component/src/images/perf.png "styleComponentBuild image"
+[nonStyleComponentPerf]: https://github.com/rsantoshreddy/non-styled-component/blob/master/src/images/Screenshot%20from%202019-03-28%2001-08-43.png "styleComponentBuild image"
 
-[styleComponentPerf]: https://github.com/rsantoshreddy/styled-component/src/images/perf.png "styleComponentBuild image"
+[styleComponentPerf]: https://github.com/rsantoshreddy/styled-component/blob/master/src/image/perf.png "styleComponentBuild image"
 
-[nonStyleComponentCode]: https://github.com/rsantoshreddy/non-styled-component/src/images/code.png "styleComponentBuild image"
+[nonStyleComponentCode]: https://github.com/rsantoshreddy/non-styled-component/blob/master/src/images/code.png "styleComponentBuild image"
 
-[styleComponentCode]: https://github.com/rsantoshreddy/styled-component/src/images/build.png "styleComponentBuild image"
+[styleComponentCode]: https://github.com/rsantoshreddy/styled-component/blob/master/src/image/code.png "styleComponentBuild image"
 
 https://github.com/styled-components/styled-components/issues/637
-
